@@ -1,5 +1,5 @@
 {
-	hello world
+	hello world from capital
 	static void main
 
 					}
